@@ -1,5 +1,8 @@
 Authors: Christine Winter 1 , Robin Kosch 1 , Martin Ludlow 2 , Albert D. M. E. Osterhaus 2 and Klaus Jung 
 
+- DOI: [10.1186/s12859-019-2705-9](https://doi.org/10.1186/s12859-019-2705-9)
+- https://pubmed.ncbi.nlm.nih.gov/30876387/ last: 3/25/2024
+
 
 
 ## aim of the paper
