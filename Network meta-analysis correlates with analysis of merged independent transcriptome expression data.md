@@ -51,6 +51,7 @@ network meta analysis allows comparisons without batch effects.
 
 ## Background and important aspects about network meta-analysis
 
+
 --------------------------------------------------
 
 
@@ -112,6 +113,9 @@ the standard error (SE) is a crucial measure used to quantify the uncertainty su
 Goal: **find/determine indirect log fold changes and their SE**.
 indirect -> the log fold changes for the dotted line/ indirect comparisons.
 
+--------------------------------------------------------
+
+
 ## Results, findings and conclusions
 
 - *"results from analyzing merged data sets and the results from network meta-analysis are highly correlated in simple study networks."*
@@ -121,7 +125,6 @@ indirect -> the log fold changes for the dotted line/ indirect comparisons.
 - the results of network meta-analysis are highly correlated with the results of merged data analysis in simply study networks
 - network meta-analysis showed a higher correlation with the true fold changes than merged data analysis when one edge of the network was supported by multiple independent studies. This shows that batch effect removal doesn´t work when edges are supporte dby multiple studies.
 - Used simulated studies: The results could be too optimistic. Maybe missed some batch effects not simulated by ComBat package.
-- 
 
 ### append: genes found - not necessary to understand network meta-analysis but interesting.
 
@@ -147,3 +150,15 @@ indirect -> the log fold changes for the dotted line/ indirect comparisons.
 "Thyroid Peroxidase (TPO) is expressed in the thyroid gland and is essential for thyroid hormonogenesis. Nevertheless, TPO promotor also contains aspecificNFκB binding site, leading to transactivation after (LPS) stimulation"
 
 "SLC4A1 is a chloride-bicarbonate exchanger expressed in erythrocytes and intercalated cells of renal collecting ducts. Mutations of SLC4A1 have been described associated with distal renal tubular necrosis and haemolytic anemia"
+
+
+
+--------------------------------------------------------
+
+
+
+
+## methods
+
+see [[math and theory behind network meta-analysis]]
+
