@@ -160,5 +160,5 @@ indirect -> the log fold changes for the dotted line/ indirect comparisons.
 
 ## methods
 
-see [[math and theory behind network meta-analysis]]
+see [[math and theory behind network meta-analysis - Jung paper]]
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "math and theory behind network meta-analysis.md",
+                "file": "math and theory behind network meta-analysis - Jung paper.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "math and theory behind network meta-analysis.md",
+                "file": "math and theory behind network meta-analysis - Jung paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "math and theory behind network meta-analysis.md",
+                "file": "math and theory behind network meta-analysis - Jung paper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "math and theory behind network meta-analysis.md"
+                "file": "math and theory behind network meta-analysis - Jung paper.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "451082a7cbe4043a",
   "lastOpenFiles": [
+    "Pasted image 20240330130750.png",
     "Network meta-analysis correlates with analysis of merged independent transcriptome expression data.md",
-    "math and theory behind network meta-analysis.md",
+    "math and theory behind network meta-analysis - Jung paper.md",
     "Network meta-analysis, electricalnetworks and graph theory.md",
     "Pasted image 20240325123839.png",
     "Screenshot from 2024-03-23 13-11-00.png",
